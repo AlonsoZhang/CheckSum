@@ -8,8 +8,11 @@
 
 #import <Cocoa/Cocoa.h>
 
-@interface AppDelegate : NSObject <NSApplicationDelegate>
+@interface AppDelegate : NSObject <NSApplicationDelegate,NSWindowDelegate>
+@property (weak) IBOutlet NSTextField *FilePath;
+- (IBAction)Check:(id)sender;
 
+@property NSString *ReturnStr;
 
 @end
 
