@@ -2,8 +2,8 @@
 //  AppDelegate.m
 //  CheckSum
 //
-//  Created by SSD on 2018/3/9.
-//  Copyright © 2018年 baker. All rights reserved.
+//  Created by Alonso on 2018/3/9.
+//  Copyright © 2018年 Alonso. All rights reserved.
 //
 
 #import "AppDelegate.h"

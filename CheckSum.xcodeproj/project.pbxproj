@@ -92,7 +92,7 @@
 			isa = PBXProject;
 			attributes = {
 				LastUpgradeCheck = 0900;
-				ORGANIZATIONNAME = baker;
+				ORGANIZATIONNAME = Alonso;
 				TargetAttributes = {
 					4EF23CE520524EDB000E9691 = {
 						CreatedOnToolsVersion = 9.0;
@@ -267,7 +267,7 @@
 				INFOPLIST_FILE = CheckSum/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks";
 				MACOSX_DEPLOYMENT_TARGET = 10.10;
-				PRODUCT_BUNDLE_IDENTIFIER = baker.CheckSum;
+				PRODUCT_BUNDLE_IDENTIFIER = tech.zhangwu.CheckSum;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Debug;
@@ -282,7 +282,7 @@
 				INFOPLIST_FILE = CheckSum/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks";
 				MACOSX_DEPLOYMENT_TARGET = 10.10;
-				PRODUCT_BUNDLE_IDENTIFIER = baker.CheckSum;
+				PRODUCT_BUNDLE_IDENTIFIER = tech.zhangwu.CheckSum;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Release;
